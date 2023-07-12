@@ -5,7 +5,11 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "N1", "N1", "{997F9FDB-FECE-41B9-946D-C49E9743EA42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N1", "N1\N1.csproj", "{A9AD3370-8334-46CB-833A-1D276A696A86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N1", "N1\N1.csproj", "{A9AD3370-8334-46CB-833A-1D276A696A86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeTask-1", "HomeTask-1", "{F5454088-E22D-4011-8B78-DE04A6D2C0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask-1", "HomeTask-1\HomeTask-1.csproj", "{8891DDF2-83B4-43AA-B651-D5740054E234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,18 @@ Global
 		{A9AD3370-8334-46CB-833A-1D276A696A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9AD3370-8334-46CB-833A-1D276A696A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9AD3370-8334-46CB-833A-1D276A696A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8891DDF2-83B4-43AA-B651-D5740054E234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8891DDF2-83B4-43AA-B651-D5740054E234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8891DDF2-83B4-43AA-B651-D5740054E234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8891DDF2-83B4-43AA-B651-D5740054E234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A9AD3370-8334-46CB-833A-1D276A696A86} = {997F9FDB-FECE-41B9-946D-C49E9743EA42}
+		{F5454088-E22D-4011-8B78-DE04A6D2C0B1} = {997F9FDB-FECE-41B9-946D-C49E9743EA42}
+		{8891DDF2-83B4-43AA-B651-D5740054E234} = {F5454088-E22D-4011-8B78-DE04A6D2C0B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FC9C8A10-4CD0-4AA7-A1D8-8C70C503D34F}
