@@ -14,9 +14,9 @@ Console.WriteLine($"\nName: {name}\nSurname: {Surname}\nAge: {age}");
 
 DateTime now1 = DateTime.Now;
 DateTime date = new DateTime(1970, 1, 1);
-byte ageA = 75;
-float balance = 35.5F;
-string name1 = "Max Developer";
+byte ageA = 37;
+float balance = 45.43F;
+string name1 = "Mexrojiddin";
 
 Console.WriteLine(now1);
 Console.WriteLine(date);
