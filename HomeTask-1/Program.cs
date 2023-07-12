@@ -27,7 +27,7 @@ Console.WriteLine(name1);
 //Task-3
 //Primitive
 bool aLife = true;
-int myAge = 19:
+int myAge = 19;
 
 Console.WriteLine($"Primitive type: {aLife}, {myAge}");
 
