@@ -1,6 +1,6 @@
 ﻿Console.Write("Enter your name: ");
 var name = Console.ReadLine();
-var usernames = new[] { "azizbek", "teshavoy-kosmonavt", "gayrat-app", "ali-production", "bekzod-pro" };
+var usernames = new[] { "Qo'chqorov", "teshavoy-kosmonavt", "gayrat-app", "ali-production", "bekzod-pro" };
 var words = new[] { "corporation", "pro", "production", "kosmonavt", "blog", "app" };
 var wordsB = name.Split();
 
