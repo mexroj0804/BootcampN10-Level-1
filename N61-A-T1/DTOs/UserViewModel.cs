@@ -1,0 +1,14 @@
+﻿
+
+namespace N61_A_T1.DTOs
+{
+    public class UserViewModel
+    {
+        public Guid Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string UserName { get; set; }
+        public DateTime CreatedAt { get; set; }
+
+    }
+}
